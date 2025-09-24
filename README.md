@@ -1,4 +1,4 @@
-# Telco Customer Churn Analysis (Power BI Project)
+#  Customer Churn Analysis (Power BI Project)
 
 ## 📌 Project Overview
 This project analyzes customer churn for a telecommunications company using Power BI.  
